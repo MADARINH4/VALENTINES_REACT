@@ -16,3 +16,5 @@ const REJECTION_QUESTIONS = [
   'Is that your final answer?',
   "You'er breaking my heart ;(",
 ];
+
+export default REJECTION_QUESTIONS;
