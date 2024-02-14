@@ -10,7 +10,7 @@ export const ImageStatusContext = createContext({
 
 export default function ImageStatusContextProvider({ children }) {
   const [imageStatus, setImageStatus] = useState({
-    title: 'Will you be my Valentine',
+    title: 'Will you be my Valentine?',
     type: IMAGES.WAITING,
   });
 
